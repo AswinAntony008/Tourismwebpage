@@ -1,2 +1,2 @@
 # Tourismwebpage
-Tourism webpage project Description
+Tourism webpage project frontend
